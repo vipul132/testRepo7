@@ -1,4 +1,4 @@
 line1
-abcd
+efgh2
 line3
 line4
